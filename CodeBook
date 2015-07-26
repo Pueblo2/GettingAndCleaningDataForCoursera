@@ -1,5 +1,5 @@
 I used RStudio and View to quickly create the codebook even though this is working after-the-fact.
-
+This is the CodeBook
 tBodyAcc.mean...X
 tBodyAcc.mean...Y
 tBodyAcc.mean...Z
