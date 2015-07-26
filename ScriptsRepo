@@ -1,5 +1,7 @@
-Here's my run_analysis script for this exercise.
-## run_analysis.R (4th one)  don't forget to get the reshape2 package and update dependencies
+
+
+## Here's my run_analysis script for this exercise.
+## (4th one)  don't forget to get the reshape2 package and update dependencies
 
 library(reshape2)
 
